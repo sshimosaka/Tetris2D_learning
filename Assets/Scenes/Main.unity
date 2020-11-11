@@ -190,7 +190,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u2190\u30AD\u30FC:\u5DE6\u79FB\u52D5"
+  m_Text: LeftKey:Left Move
 --- !u!222 &40190037
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -414,8 +414,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0}
   m_AnchorMax: {x: 1, y: 0}
-  m_AnchoredPosition: {x: -100, y: 30}
-  m_SizeDelta: {x: 160, y: 20}
+  m_AnchoredPosition: {x: -90, y: 30}
+  m_SizeDelta: {x: 180, y: 20}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1108723159
 MonoBehaviour:
@@ -449,7 +449,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u2193\u30AD\u30FC:\u4E0B\u79FB\u52D5"
+  m_Text: DownKey:Down Speed UP
 --- !u!222 &1108723160
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -766,7 +766,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u2191\u30AD\u30FC:\u5DE6\u56DE\u8EE2"
+  m_Text: UpKey:Left Rotation
 --- !u!222 &1659507768
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1029,7 +1029,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u2192\u30AD\u30FC:\u53F3\u79FB\u52D5"
+  m_Text: RightKey:Right Move
 --- !u!222 &2064931229
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1107,7 +1107,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u64CD\u4F5C\u65B9\u6CD5:"
+  m_Text: 'How to Play:'
 --- !u!222 &2120419058
 CanvasRenderer:
   m_ObjectHideFlags: 0
