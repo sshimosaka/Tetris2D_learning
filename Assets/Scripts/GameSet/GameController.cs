@@ -21,7 +21,7 @@ public class GameController : MonoBehaviour
     public void EndGame()
     {
         //UnityEditorで止めたい場合
-        UnityEditor.EditorApplication.isPlaying = false;
+        //UnityEditor.EditorApplication.isPlaying = false;
         Application.Quit();
     }
 }
